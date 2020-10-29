@@ -36,7 +36,7 @@ This is samples code repository (Python) for [Azure Databricks](https://docs.mic
 * Samples_for_Orientation_MASKED.ipynb > Exported Notebook from Azure Databricks
 * Samples_for_Orientation_MASKED.html > Export HTML (with result and visual) from Azure Databricks
 
-![capture1](https://github.com/easonlai/Samples_for_Azure_Databricks_Orientation/blob/master/git-images/capture1.PNG)
+![capture1](https://github.com/easonlai/Samples_for_Azure_Databricks_Orientation/blob/main/git-images/capture1.PNG)
 
 
 
