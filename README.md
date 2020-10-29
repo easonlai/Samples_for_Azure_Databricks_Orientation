@@ -34,7 +34,7 @@ This is samples code repository (Python) for [Azure Databricks](https://docs.mic
 * data/pima-indians-diabetes-data-2.csv > Pima Indians Diabetes Database in csv with column header
 * data/raw_nyc_phil.json > New York Philharmonic Performance History in json
 * Samples_for_Orientation_MASKED.ipynb > Exported Notebook from Azure Databricks
-* Samples_for_Orientation_MASKED.html > Export HTML (with result and visual) from Azure Databricks
+* Samples_for_Orientation_MASKED.html > Exported HTML (with result and visual) from Azure Databricks
 
 ![capture1](https://github.com/easonlai/Samples_for_Azure_Databricks_Orientation/blob/main/git-images/capture1.PNG)
 
