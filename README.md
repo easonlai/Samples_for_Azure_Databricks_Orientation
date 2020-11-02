@@ -28,13 +28,21 @@ This is samples code repository (Python) for [Azure Databricks](https://docs.mic
 * Append two subset of dataframe into one
 * Plotting column value count by [Matplotlib](https://matplotlib.org/) & [Seaborn](https://seaborn.pydata.org/)
 
+**Section 4**
+* Exploring sample data (csv) in ADLS with [Pandas](https://pandas.pydata.org/)
+* Data cleaning with [Pandas](https://pandas.pydata.org/)
+* Saving cleaned data back to ADLS
+
 **List of Files**
 * data/ > sample source data directory
 * data/pima-indians-diabetes-data.csv > Pima Indians Diabetes Database in csv
 * data/pima-indians-diabetes-data-2.csv > Pima Indians Diabetes Database in csv with column header
 * data/raw_nyc_phil.json > New York Philharmonic Performance History in json
-* Samples_for_Orientation_MASKED.ipynb > Exported Notebook from Azure Databricks
-* Samples_for_Orientation_MASKED.html > Exported HTML (with result and visual) from Azure Databricks
+* data/BL-Flickr-Images-Book.csv > Sample csv data for data cleaning
+* Samples_for_Orientation_MASKED.ipynb > Exported Notebook from Azure Databricks (for Section 1 to 3)
+* Samples_for_Orientation_MASKED.html > Exported HTML (with result and visual) from Azure Databricks (for Section 1 to 3)
+* Samples_for_Orientation_2_MASKED.ipynb > Exported Notebook from Azure Databricks (for Section 4)
+* Samples_for_Orientation_2_MASKED.html > Exported HTML (with result and visual) from Azure Databricks (for Section 4)
 
 ![capture1](https://github.com/easonlai/Samples_for_Azure_Databricks_Orientation/blob/main/git-images/capture1.PNG)
 
