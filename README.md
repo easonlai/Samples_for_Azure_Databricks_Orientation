@@ -33,6 +33,9 @@ This is samples code repository (Python) for [Azure Databricks](https://docs.mic
 * Data cleaning with [Pandas](https://pandas.pydata.org/)
 * Saving cleaned data back to ADLS
 
+**Section 5**
+* Data cleaning and preparation with [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
+
 **List of Files**
 * data/ > sample source data directory
 * data/pima-indians-diabetes-data.csv > Pima Indians Diabetes Database in csv
@@ -43,6 +46,8 @@ This is samples code repository (Python) for [Azure Databricks](https://docs.mic
 * Samples_for_Orientation_MASKED.html > Exported HTML (with result and visual) from Azure Databricks (for Section 1 to 3)
 * Samples_for_Orientation_2_MASKED.ipynb > Exported Notebook from Azure Databricks (for Section 4)
 * Samples_for_Orientation_2_MASKED.html > Exported HTML (with result and visual) from Azure Databricks (for Section 4)
+* Data_Cleansing_and_Preparation_with_PySpark_MASKED.ipynb > Exported Notebook from Azure Databricks (for Section 5)
+* Data_Cleansing_and_Preparation_with_PySpark_MASKED.html > Exported HTML (with result and visual) from Azure Databricks (for Section 5)
 
 ![capture1](https://github.com/easonlai/Samples_for_Azure_Databricks_Orientation/blob/main/git-images/capture1.PNG)
 
